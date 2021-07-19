@@ -4,13 +4,13 @@
 
 class Translation(object):
     
-    START_TEXT = """<b>Hey {}!!</b>
-<i>Am Just A Advance Auto Filter Bot....😉
+    START_TEXT = """<b>Hello {}!!</b>
+<i>I am Ruby.I Can upload files.An advanced autofilter bot😎
 
-Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
+Connect Me And See My Pevers 🔥💥.My Master:Sidhu
 
-For More Details Click Help Button Below..
-@CrazyBotsz
+For More Details click Help Button Below..😝
+@movies656
 </i>"""    
     
     HELP_TEXT = """
@@ -43,7 +43,7 @@ For More Details Click Help Button Below..
             
             -> <code>Status</code> - Button Will Shows The Stats Of Your Channel
             
-@CrazyBotsz
+@movies656
 """
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
